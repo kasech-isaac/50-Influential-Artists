@@ -36,6 +36,9 @@ Preprocessing  Is a syntax for CSS written in different language.
  They are identified with @ symbol help to have less code.
 
 4. What is the purpose of using functions in code?
+
+ functions protect a block of code until it is invoked
+ 
 5. What is a JSON data?
 
 You may need to look up an answer but, you are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
